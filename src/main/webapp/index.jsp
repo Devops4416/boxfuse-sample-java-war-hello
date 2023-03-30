@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Hi Devops Team  good evening..!!..How are you thi is my website please login and check!</title>
+    <title>Hi Devops Team  good evening..!!..Never giveup untill you reach your goal!</title>
 </head>
 <body style="text-align: center">
     
