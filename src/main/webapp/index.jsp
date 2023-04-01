@@ -5,7 +5,7 @@
 <body style="text-align: center">
     
 <h1> Devops Team How are you today!Never giveup untill you reach your goal!</h1>
-    <h2> Github code deployed </h2>
+    <h2> Github code deployed success</h2>
     Testing
 <img src="boxfuse.png">
 
